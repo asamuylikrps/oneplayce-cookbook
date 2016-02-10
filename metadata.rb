@@ -1,0 +1,7 @@
+name             'oneplayce'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures oneplayce'
+long_description 'Installs/Configures oneplayce'
+version          '0.1.0'
